@@ -1,0 +1,4 @@
+.vscode
+secrets.yaml
+__pycache__
+data/*.json
