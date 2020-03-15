@@ -1,0 +1,28 @@
+
+EVENT_TYPES = [
+    'UNKNOWN',
+    'FACEOFF',
+    'HIT',
+    'GIVEAWAY',
+    'GOAL',
+    'SHOT',
+    'MISSED_SHOT',
+    'PENALTY',
+    'STOP',
+    'SUB',
+    'FIGHT',
+    'TAKEAWAY',
+    'BLOCKED_SHOT',
+    'PERIOD_START',
+    'PERIOD_END',
+    'GAME_END',
+    'GAME_SCHEDULED',
+    'PERIOD_READY',
+    'PERIOD_OFFICIAL',
+    'SHOOTOUT_COMPLETE',
+    'EARLY_INT_START',
+    'EARLY_INT_END',
+    'GAME_OFFICIAL',
+    'CHALLENGE',
+    'EMERGENCY_GOALTENDER'
+]
